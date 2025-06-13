@@ -1,6 +1,6 @@
 # koka-ddd - Domain Modeling with Effects
 
-** Warning: This library is in early development and may change significantly. Do not use in production yet. **
+**Warning: This library is in early development and may change significantly. Do not use in production yet.**
 
 Koka DDD provides a domain modeling framework built on Koka's algebraic effects system, featuring:
 
